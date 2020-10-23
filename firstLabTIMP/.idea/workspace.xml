@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d364f4c4-46c1-459b-ac50-831d6602b123" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../go1.15.1" />
+  <component name="ProjectId" id="1jEY8Mco0j795a0AHMYf8UsRzgu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../awesomeProject2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="goland.project.structure" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build firstLabTIMP">
+    <configuration name="Unnamed" type="GoAppEngineRunConfiguration" factoryName="Go App Engine" nameIsGenerated="true">
+      <module name="firstLabTIMP" />
+      <working_directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="false">
+      <module name="firstLabTIMP" />
+      <working_directory value="$USER_HOME$/usr/local/go" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="firstLabTIMP" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build firstLabTIMP" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="firstLabTIMP" />
+      <working_directory value="$USER_HOME$/usr/local/go" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="firstLabTIMP" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go App Engine.Unnamed" />
+      <item itemvalue="Go Build.go build firstLabTIMP" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d364f4c4-46c1-459b-ac50-831d6602b123" name="Default Changelist" comment="" />
+      <created>1603370558228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603370558228</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="117" width="1323" height="860" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603371021184">
+      <screen x="75" y="0" width="1845" height="1080" />
+    </state>
+    <state x="453" y="117" width="1323" height="860" key="#com.intellij.execution.impl.EditConfigurationsDialog/75.0.1845.1080@75.0.1845.1080" timestamp="1603371021184" />
+    <state x="788" y="167" width="638" height="744" key="FileChooserDialogImpl" timestamp="1603376915986">
+      <screen x="75" y="0" width="1845" height="1080" />
+    </state>
+    <state x="788" y="167" width="638" height="744" key="FileChooserDialogImpl/75.0.1845.1080@75.0.1845.1080" timestamp="1603376915986" />
+    <state width="1775" height="222" key="GridCell.Tab.0.bottom" timestamp="1603431883698">
+      <screen x="75" y="0" width="1845" height="1080" />
+    </state>
+    <state width="1775" height="222" key="GridCell.Tab.0.bottom/75.0.1845.1080@75.0.1845.1080" timestamp="1603431883698" />
+    <state width="1775" height="222" key="GridCell.Tab.0.center" timestamp="1603431883696">
+      <screen x="75" y="0" width="1845" height="1080" />
+    </state>
+    <state width="1775" height="222" key="GridCell.Tab.0.center/75.0.1845.1080@75.0.1845.1080" timestamp="1603431883696" />
+    <state width="1775" height="222" key="GridCell.Tab.0.left" timestamp="1603431883695">
+      <screen x="75" y="0" width="1845" height="1080" />
+    </state>
+    <state width="1775" height="222" key="GridCell.Tab.0.left/75.0.1845.1080@75.0.1845.1080" timestamp="1603431883695" />
+    <state width="1775" height="222" key="GridCell.Tab.0.right" timestamp="1603431883697">
+      <screen x="75" y="0" width="1845" height="1080" />
+    </state>
+    <state width="1775" height="222" key="GridCell.Tab.0.right/75.0.1845.1080@75.0.1845.1080" timestamp="1603431883697" />
+    <state x="255" y="0" key="SettingsEditor" timestamp="1603376887502">
+      <screen x="75" y="0" width="1845" height="1080" />
+    </state>
+    <state x="255" y="0" key="SettingsEditor/75.0.1845.1080@75.0.1845.1080" timestamp="1603376887502" />
+  </component>
+</project>
