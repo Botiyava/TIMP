@@ -10,7 +10,7 @@
 	cmd := exec.Command("tar","-xf",directory + "Lab2/main.tar", "-C", directory + "Lab2/")
 	error := cmd.Run()
 	if error != nil{
-		log.Fatal("Архива программы не существует или он не повреждён")
+		log.Fatal("Архива программы не существует или он  повреждён")
 		os.Exit(1000)
 	}
 
